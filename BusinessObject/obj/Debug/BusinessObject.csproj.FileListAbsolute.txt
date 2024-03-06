@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessObject\obj\Debug\BusinessObject.pdb

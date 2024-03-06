@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\HP\Desktop\DataBaseConnect\FinalProject\WebApplicationFinalMachinTest\BusinessLogic\obj\Debug\BusinessLogic.pdb
